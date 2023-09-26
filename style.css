@@ -15,3 +15,7 @@ section {
   width: 1170px;
   height: 800px;
 }
+
+.product-image-block {
+  border-right: rgba(20, 20, 20, 0.15);
+}
